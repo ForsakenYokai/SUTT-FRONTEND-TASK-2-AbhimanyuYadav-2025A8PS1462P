@@ -22,7 +22,7 @@ function App() {
       <header className="app-header">
         <div className="header-inner">
           <h1 className="app-title">Event Timeline</h1>
-          <p className="app-subtitle">Create and manage your events dynamically</p>
+          <p className="app-subtitle">ALSO PLEASE CHECKOUT GITHUB REPOSITORY FOR THE PROJECT NOTE</p>
         </div>
       </header>
 
