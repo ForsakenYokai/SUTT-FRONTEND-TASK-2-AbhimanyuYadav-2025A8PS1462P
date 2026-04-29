@@ -18,3 +18,6 @@ of my effort to deliver something despite a very difficult week. I am eager to d
 demonstrate my growth during the next phases of recruitment.
 
 Thank you for your time and for considering my application.
+
+
+Here is the link to the hosted website: https://sutt-frontend-task-2-abhimanyu-yada.vercel.app/
